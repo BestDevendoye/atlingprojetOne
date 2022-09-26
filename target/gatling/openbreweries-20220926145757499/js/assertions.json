@@ -1,0 +1,10 @@
+{
+  "simulation": "breweries.Openbreweries",
+  "simulationId": "openbreweries",
+  "start": 1664204277499,
+  "description": "test",
+  "scenarios": ["Test All breweries"],
+  "assertions": [
+
+  ]
+}

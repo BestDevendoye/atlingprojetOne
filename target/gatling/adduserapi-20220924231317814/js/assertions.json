@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.AddUserApi",
+  "simulationId": "adduserapi",
+  "start": 1664061197814,
+  "description": "test",
+  "scenarios": ["Add User and Get User"],
+  "assertions": [
+
+  ]
+}

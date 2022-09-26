@@ -1,0 +1,4 @@
+RUN	breweries.Openbreweries	openbreweries	1664202193414	0	3.6.1
+USER	Test All breweries	START	1664202194017
+REQUEST		get all breweries	1664202194054	1664202197088	OK	 
+USER	Test All breweries	END	1664202197113

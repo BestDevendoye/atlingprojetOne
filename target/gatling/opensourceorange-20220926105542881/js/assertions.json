@@ -1,0 +1,10 @@
+{
+  "simulation": "org.example.OpensourceOrange",
+  "simulationId": "opensourceorange",
+  "start": 1664189742881,
+  "description": "test",
+  "scenarios": ["OpensourceOrange"],
+  "assertions": [
+
+  ]
+}
